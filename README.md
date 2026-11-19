@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sunnyhmz7010/start-your-python/refs/heads/main/public/icon.png" alt="Start Your Python Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/hyrchen/start-your-python/refs/heads/main/public/icon.png" alt="Start Your Python Logo" width="120" />
   <h1>Start Your Python</h1>
   <p>面向 Python 初学者的本地学习工作区，把中文课程、示例代码和真实终端运行放在一个 PyCharm 风格界面里</p>
 </div>
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sunnyhmz7010/start-your-python/releases"><img src="https://img.shields.io/github/v/release/sunnyhmz7010/start-your-python?label=Release&amp;color=3b82f6" alt="Release" /></a>
-  <a href="https://github.com/sunnyhmz7010/start-your-python/blob/main/LICENSE"><img src="https://img.shields.io/github/license/sunnyhmz7010/start-your-python?color=10b981" alt="License" /></a>
-  <a href="https://github.com/sunnyhmz7010/start-your-python/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/sunnyhmz7010/start-your-python/ci.yml?branch=main&amp;label=CI" alt="CI" /></a>
+  <a href="https://github.com/hyrchen/start-your-python/releases"><img src="https://img.shields.io/github/v/release/hyrchen/start-your-python?label=Release&amp;color=3b82f6" alt="Release" /></a>
+  <a href="https://github.com/hyrchen/start-your-python/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hyrchen/start-your-python?color=10b981" alt="License" /></a>
+  <a href="https://github.com/hyrchen/start-your-python/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/hyrchen/start-your-python/ci.yml?branch=main&amp;label=CI" alt="CI" /></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 📸 截图预览
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sunnyhmz7010/start-your-python/refs/heads/main/public/screenshot.png" alt="Start Your Python 桌面学习工作区截图" width="900" />
+  <img src="https://raw.githubusercontent.com/hyrchen/start-your-python/refs/heads/main/public/screenshot.png" alt="Start Your Python 桌面学习工作区截图" width="900" />
 </p>
 
 ## 🚀 核心能力
@@ -54,13 +54,13 @@
 
 #### 🖥️ Windows 便携版
 
-1. 从 [最新 Release](https://github.com/sunnyhmz7010/start-your-python/releases/latest) 下载以 `win-amd64.zip`（x64）或 `win-arm64.zip`（ARM64）结尾的便携包。
+1. 从 [最新 Release](https://github.com/hyrchen/start-your-python/releases/latest) 下载以 `win-amd64.zip`（x64）或 `win-arm64.zip`（ARM64）结尾的便携包。
 2. 完整解压，保留同级的 `lessons/` 目录，运行 `Start Your Python.exe`。
 3. 在左侧选择第二章的 `Hello World.py`，点击“运行课程”，再点击“运行代码”，底部“Python 终端”会输出 `Hello, World!`。
 
 #### 📱 Android 阅读版
 
-1. 从 [最新 Release](https://github.com/sunnyhmz7010/start-your-python/releases/latest) 下载以 `android-arm64-v8a-release.apk` 或 `android-x86_64-release.apk` 结尾的文件，选择与设备架构匹配的版本。
+1. 从 [最新 Release](https://github.com/hyrchen/start-your-python/releases/latest) 下载以 `android-arm64-v8a-release.apk` 或 `android-x86_64-release.apk` 结尾的文件，选择与设备架构匹配的版本。
 2. 打开 APK，按系统提示允许当前来源安装应用并完成安装。
 3. 打开应用，点击“选择课程”，选择章节后即可阅读讲解、查看示例和回答测验。
 
@@ -183,7 +183,7 @@ start-your-python/
 ### 📦 准备源码
 
 ```bash
-git clone https://github.com/sunnyhmz7010/start-your-python.git
+git clone https://github.com/hyrchen/start-your-python.git
 cd start-your-python
 npm ci
 ```
